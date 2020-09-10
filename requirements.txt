@@ -1,0 +1,9 @@
+webpack (imports/exports)
+    bable
+    scss
+    Eslint
+    2 modes
+        -dev ()
+        -prod
+
+git
